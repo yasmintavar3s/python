@@ -1,5 +1,1 @@
-##você
-## Salvando alterações no Git
-*comando git push
-*comando git pull
-*comando git fetch
+#Aqui estão meus ultimos projetos aprendendo python
